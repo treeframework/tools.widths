@@ -23,7 +23,7 @@ paste.
 $ bower install tree-widths-tools --save
 ```
 
-Once onstalled, `@import` into your project in its Tools layer:
+Once installed, `@import` into your project in its Tools layer:
 
 ```scss
 @import "bower_components/tree-widths-tools/tools.widths";
